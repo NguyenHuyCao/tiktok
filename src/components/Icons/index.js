@@ -3,7 +3,7 @@ export const UploadIcon = ({ width = "3rem", height = "3rem", className }) => (
     className={className}
     width={width}
     height={height}
-    dataE2e=""
+    // dataE2e=""
     viewBox="0 0 48 48"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg"
