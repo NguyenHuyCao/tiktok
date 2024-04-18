@@ -7,7 +7,7 @@ import { useState, useEffect, useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import HeadlessTippy from "@tippyjs/react/headless";
 
-import * as searchServices from "~/apiServices/searchSevices";
+import * as searchServices from "~/Services/searchSevice";
 import classNames from "classnames/bind";
 import styles from "./Search.module.scss";
 import { useDebounce } from "~/hooks";
